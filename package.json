@@ -9,9 +9,8 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
-    "chatbot",
+    "afdian",
     "koishi",
     "plugin"
   ],

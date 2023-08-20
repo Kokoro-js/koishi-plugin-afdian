@@ -1,0 +1,7 @@
+commands:
+  afdian/bind:
+    description: 绑定爱发电账号
+    usage: |-
+      afdian.bind <订单号>
+    messages:
+      no-order: '你必须提供订单号我们才能检索与你账户关联的账号。'
